@@ -1,0 +1,14 @@
+theme: minimal-mistakes-jekyll
+title: "GrolschSec Resume"
+baseurl: ""
+url: "https://grolschsec.github.io"
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Education"
+    url: /education/
+  - title: "Projects"
+    url: /projects/
+
+markdown: kramdown
+highlighter: rouge
