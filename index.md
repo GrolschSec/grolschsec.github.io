@@ -3,6 +3,8 @@ layout: home
 title: whoami
 ---
 
-### $> whoami
+<!-- ### $> whoami -->
 
-### $> cat skills.txt
+<!-- ### $> cat skills.txt -->
+
+<!-- ### $> tail -n 2 projects.txt -->
